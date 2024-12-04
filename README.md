@@ -40,10 +40,13 @@ npx hardhat --network localhost faucet 0xda77006a55e3f5c7a905b0058df6f0652bf2fe8
 ```
 
 ##preview</br></br>
-<img width="153" alt="image" src="https://github.com/user-attachments/assets/3b1c4fd0-856b-4446-aa5e-fb31d182d89f">
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/c034853d-2685-46ab-9160-ec14c2667570">
+
 </br></br>
-<img width="270" alt="image" src="https://github.com/user-attachments/assets/3e3eca24-b7ef-4e9c-ade1-f2411e4044e3">
+<img width="495" alt="image" src="https://github.com/user-attachments/assets/19623ca9-a676-469a-83da-f8f8883996bd">
+
 </br></br>
-<img width="416" alt="image" src="https://github.com/user-attachments/assets/47da85e4-c024-45fb-9af1-c17fae0080ae">
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/cd5f9fc1-c07f-4003-b157-088cdc6c04cf">
+
 
 
