@@ -5,7 +5,7 @@ The first things you need to do are cloning this repository and installing its
 dependencies:
 
 ```sh
-gh repo clone git@github.com:TTTyj/CarSpaceConnection.git
+gh repo clone TTTyj/CarSpaceConnection
 cd hardhat-boilerplate
 npm install
 ```
