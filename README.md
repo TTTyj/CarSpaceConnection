@@ -39,3 +39,9 @@ need to have [Coinbase Wallet](https://www.coinbase.com/wallet) or [Metamask](ht
 npx hardhat --network localhost faucet 0xda77006a55e3f5c7a905b0058df6f0652bf2fe89
 ```
 
+##preview
+<img width="153" alt="image" src="https://github.com/user-attachments/assets/3b1c4fd0-856b-4446-aa5e-fb31d182d89f">
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/3e3eca24-b7ef-4e9c-ade1-f2411e4044e3">
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/47da85e4-c024-45fb-9af1-c17fae0080ae">
+
+
